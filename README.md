@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x18. C - Stacks, Queues - LIFO, FIFO
 
 ## Description
@@ -29,3 +30,7 @@ File | Description
 [free.c](./free.c) | memory handling functions
 [char.c](./char.c) | handler functions for ascii instructions
 [bf](./bf) | Advanced tasks: Brainf*ck programs
+=======
+# monty
+Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
+>>>>>>> abac18f5d27723c232d7f281e34ba8165740bed5
